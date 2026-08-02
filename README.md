@@ -1,51 +1,48 @@
 # 🛒 NovaMart Retail Analytics Dashboard
 
-## 📌 Project Overview
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL%20Server-Analysis-red?logo=microsoftsqlserver)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 
-NovaMart Retail Analytics is an end-to-end Business Intelligence project built using Python, SQL, and Power BI.
-
-This project simulates a real-world retail business by generating a realistic sales dataset, performing Exploratory Data Analysis (EDA), analyzing business insights using SQL, and creating an interactive Power BI dashboard for decision-making.
-
----
-
-## 🎯 Business Objective
-
-The objective of this project is to analyze retail sales performance and answer key business questions such as:
-
-- Which products generate the highest sales?
-- Which regions are the most profitable?
-- What are the monthly sales trends?
-- Which payment methods are most frequently used?
-- Which customer segments contribute the most revenue?
+An end-to-end Retail Sales Analytics project demonstrating the complete data analytics workflow—from generating a realistic retail dataset with Python to performing SQL analysis, Exploratory Data Analysis (EDA), and building an interactive Power BI dashboard for business decision-making.
 
 ---
 
-## 🛠️ Tech Stack
+# 📌 Project Overview
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SQL Server
-- Power BI
-- Git
-- GitHub
+NovaMart is a fictional retail company created to simulate a real-world business environment.
 
----
+The objective of this project is to transform raw sales data into meaningful business insights using Python, SQL Server, and Microsoft Power BI.
 
-## 🔄 Project Workflow
+The project covers the complete analytics lifecycle:
 
-1. Generated a realistic retail sales dataset using Python.
-2. Performed Exploratory Data Analysis (EDA).
-3. Created visualizations using Matplotlib.
-4. Imported the dataset into SQL Server.
-5. Wrote SQL queries to answer business questions.
-6. Built an interactive Power BI dashboard.
-7. Published the project on GitHub.
+- 📊 Dataset Generation using Python
+- 🧹 Data Preparation
+- 📈 Exploratory Data Analysis (EDA)
+- 💻 SQL Business Analysis
+- 📉 Interactive Power BI Dashboard
+- 📋 Business Insights & Reporting
 
 ---
 
-## 📂 Project Structure
+# 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Python | Dataset Generation & Data Analysis |
+| Pandas | Data Cleaning & Manipulation |
+| NumPy | Numerical Operations |
+| Matplotlib | Data Visualization |
+| SQL Server (SSMS) | Business Queries & Analysis |
+| Power BI | Interactive Dashboard Development |
+| Power Query | Data Transformation |
+| DAX | Measures & KPIs |
+
+---
+
+# 📂 Repository Structure
 
 ```
 NovaMart-Retail-Analytics
@@ -62,70 +59,155 @@ NovaMart-Retail-Analytics
 
 ---
 
-## 💡 Skills Demonstrated
+# 📊 Power BI Dashboard
 
-- Data Analysis
-- Data Visualization
-- Dashboard Design
-- SQL Query Writing
-- Business Intelligence
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Git & GitHub
+## Executive Overview
+
+![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
 
 ---
 
-## 📊 Dashboard Pages
+## Sales Analysis
 
-- Executive Overview
-- Sales Analysis
-- Product Analysis
-- Customer Analysis
-- Regional Analysis
+![Sales Analysis](Dashboard%20Screenshots/Sales_Analysis.png)
 
 ---
 
-## 🗄️ SQL Analysis
+## Product Analysis
 
-Business insights were generated using SQL queries including:
-
-- Sales by Category
-- Monthly Sales Trend
-- Top 10 Products by Sales
-- Profit by State
-- Payment Method Distribution
+![Product Analysis](Dashboard%20Screenshots/Product_Analysis.png)
 
 ---
 
-## 🐍 Python Analysis
+## Customer Analysis
 
-The Python section of this project includes:
-
-- Synthetic Retail Dataset Generation
-- Exploratory Data Analysis (EDA)
-- Data Visualization using Matplotlib
+![Customer Analysis](Dashboard%20Screenshots/Customer_Analysis.png)
 
 ---
 
-## 📁 Dataset
+## Regional Analysis
 
-The dataset used in this project was generated using Python to simulate realistic retail sales data for a fictional retail company called **NovaMart**.
-
----
-
-## 🚀 Future Improvements
-
-- Add Sales Forecasting
-- Customer Segmentation using Machine Learning
-- Connect to Live SQL Database
-- Deploy Dashboard Online
+![Regional Analysis](Dashboard%20Screenshots/Regional_Analysis.png)
 
 ---
 
-## 👩‍💻 Author
+# 📈 Exploratory Data Analysis (EDA)
+
+The dataset was explored using Python (Pandas & Matplotlib) to identify trends and patterns before building the dashboard.
+
+## Monthly Sales Trend
+
+![Monthly Sales Trend](Python%20Charts/01_Monthly_Sales_Trend.png)
+
+---
+
+## Category Sales
+
+![Category Sales](Python%20Charts/02_Category_Sales.png)
+
+---
+
+## Regional Profit
+
+![Regional Profit](Python%20Charts/03_Regional_Profit.png)
+
+---
+
+## Payment Method Distribution
+
+![Payment Method Distribution](Python%20Charts/04_Payment_Method_Distribution.png)
+
+---
+
+# 💻 SQL Business Analysis
+
+SQL Server was used to answer important business questions and generate insights from the dataset.
+
+## Sales by Category
+
+![Sales by Category](SQL_Screenshots/01_Sales_By_Category.png)
+
+---
+
+## Profit by State
+
+![Profit by State](SQL_Screenshots/02_Profit_By_State.png)
+
+---
+
+## Monthly Sales Trend
+
+![Monthly Sales Trend](SQL_Screenshots/03_Monthly_Sales_Trend.png)
+
+---
+
+## Top Products by Sales
+
+![Top Products](SQL_Screenshots/04_Top_Products.png)
+
+---
+
+## Payment Method Distribution
+
+![Payment Method Distribution](SQL_Screenshots/05_Payment_Method_Distribution.png)
+
+---
+
+# 📂 Dataset
+
+The dataset was **generated entirely using Python** to simulate a realistic retail sales environment.
+
+It includes information such as:
+
+- Order ID
+- Order Date
+- Customer Name
+- Product Name
+- Category
+- State
+- Quantity
+- Sales
+- Profit
+- Discount
+- Payment Method
+
+---
+
+# 📌 Key Business Insights
+
+- 📈 Electronics generated the highest sales.
+- 💳 UPI was the most preferred payment method.
+- 🏆 Tamil Nadu contributed the highest overall profit.
+- 📅 Monthly sales remained relatively stable throughout the year.
+- ⭐ Premium electronic products generated the highest revenue.
+
+---
+
+# 🚀 Future Improvements
+
+- Add predictive sales forecasting using Machine Learning.
+- Deploy the Power BI dashboard online.
+- Automate data refresh using SQL and Power BI.
+- Expand the dataset with multiple years of sales.
+
+---
+
+# 👩‍💻 Author
 
 **Rathnaa K**
 
-Aspiring Data Analyst | Power BI Developer | Finance Graduate
+Aspiring Data Analyst
 
-GitHub: https://github.com/rathnaa-coder
+### Skills
+
+- Power BI
+- SQL
+- Python
+- Pandas
+- Excel
+- Data Visualization
+- Business Intelligence
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
