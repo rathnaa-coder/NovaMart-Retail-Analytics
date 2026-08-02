@@ -65,27 +65,23 @@ NovaMart-Retail-Analytics
 
 ![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
 
----
 
-## Sales Analysis
+### Sales Analysis
 
 ![Sales Analysis](Dashboard%20Screenshots/Sales_Analysis.png)
 
----
 
-## Product Analysis
+### Product Analysis
 
 ![Product Analysis](Dashboard%20Screenshots/Product_Analysis.png)
 
----
 
-## Customer Analysis
+### Customer Analysis
 
 ![Customer Analysis](Dashboard%20Screenshots/Customer_Analysis.png)
 
----
 
-## Regional Analysis
+### Regional Analysis
 
 ![Regional Analysis](Dashboard%20Screenshots/Regional_Analysis.png)
 
@@ -95,25 +91,22 @@ NovaMart-Retail-Analytics
 
 The dataset was explored using Python (Pandas & Matplotlib) to identify trends and patterns before building the dashboard.
 
-## Monthly Sales Trend
+### Monthly Sales Trend
 
 ![Monthly Sales Trend](Python%20Charts/01_Monthly_Sales_Trend.png)
 
----
 
-## Category Sales
+### Category Sales
 
 ![Category Sales](Python%20Charts/02_Category_Sales.png)
 
----
 
-## Regional Profit
+### Regional Profit
 
 ![Regional Profit](Python%20Charts/03_Regional_Profit.png)
 
----
 
-## Payment Method Distribution
+### Payment Method Distribution
 
 ![Payment Method Distribution](Python%20Charts/04_Payment_Method_Distribution.png)
 
@@ -123,31 +116,27 @@ The dataset was explored using Python (Pandas & Matplotlib) to identify trends a
 
 SQL Server was used to answer important business questions and generate insights from the dataset.
 
-## Sales by Category
+### Sales by Category
 
 ![Sales by Category](SQL_Screenshots/01_Sales_By_Category.png)
 
----
 
-## Profit by State
+### Profit by State
 
 ![Profit by State](SQL_Screenshots/02_Profit_By_State.png)
 
----
 
-## Monthly Sales Trend
+### Monthly Sales Trend
 
 ![Monthly Sales Trend](SQL_Screenshots/03_Monthly_Sales_Trend.png)
 
----
 
-## Top Products by Sales
+### Top Products by Sales
 
 ![Top Products](SQL_Screenshots/04_Top_Products.png)
 
----
 
-## Payment Method Distribution
+### Payment Method Distribution
 
 ![Payment Method Distribution](SQL_Screenshots/05_Payment_Method_Distribution.png)
 
