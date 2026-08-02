@@ -61,7 +61,7 @@ NovaMart-Retail-Analytics
 
 # 📊 Power BI Dashboard
 
-## Executive Overview
+### Executive Overview
 
 ![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
 
@@ -175,7 +175,7 @@ It includes information such as:
 
 # 📌 Key Business Insights
 
-- 📈 Electronics generated the highest sales.
+- 📈 Electronics was the highest-performing product category by sales.
 - 💳 UPI was the most preferred payment method.
 - 🏆 Tamil Nadu contributed the highest overall profit.
 - 📅 Monthly sales remained relatively stable throughout the year.
@@ -188,6 +188,7 @@ It includes information such as:
 - Add predictive sales forecasting using Machine Learning.
 - Deploy the Power BI dashboard online.
 - Automate data refresh using SQL and Power BI.
+- Publish the dashboard using Power BI Service.
 - Expand the dataset with multiple years of sales.
 
 ---
