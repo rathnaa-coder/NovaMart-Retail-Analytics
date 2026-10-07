@@ -172,21 +172,13 @@ It includes information such as:
 
 ---
 
-# 🚀 Future Improvements
-
-- Add predictive sales forecasting using Machine Learning.
-- Deploy the Power BI dashboard online.
-- Automate data refresh using SQL and Power BI.
-- Publish the dashboard using Power BI Service.
-- Expand the dataset with multiple years of sales.
-
----
-
 # 👩‍💻 Author
 
 **Rathnaa K**
 
 Aspiring Data Analyst
+
+🔗 LinkedIn: www.linkedin.com/in/rathnaa-k
 
 ### Skills
 
